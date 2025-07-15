@@ -23,10 +23,4 @@
    ```bash
    cargo run --release --bin solana-onchain-arbitrage-bot -- --config config.toml
    ```
-## ⚠️ Disclaimer
 
-**Educational purposes only.** Cryptocurrency trading involves substantial risk. The authors are not responsible for any financial losses. Use at your own risk and never trade with funds you cannot afford to lose.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
